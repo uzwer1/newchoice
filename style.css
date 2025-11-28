@@ -17,6 +17,7 @@ body {
   background-repeat: no-repeat;
   background-position-y: top;
   background-position-x: calc(50vw + 16px);
+  overflow: hidden;
 }
 
 .container {
